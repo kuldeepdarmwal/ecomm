@@ -1,0 +1,2 @@
+test using bare repo
+
